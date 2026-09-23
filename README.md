@@ -1,6 +1,6 @@
 ## Hi there ,It's me Mariam👋
 
-First-year Software Engineering student at ENSA Khouribga
+Second-year Software Engineering student at ENSA Khouribga
 
 - 🔭 I'm currently working on  full-stack web projects (PHP, Java, Vue.js, Django,Html,CSS,C,CPP..)
 - 🌱 I'm currently Learning java EE .
