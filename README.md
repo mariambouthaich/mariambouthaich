@@ -2,7 +2,7 @@
 
 Second-year Software Engineering student at ENSA Khouribga
 
-- 🔭 I'm currently working on  full-stack web projects (PHP, Java, Vue.js, Django,Html,CSS,C,CPP..)
+- 🔭 I'm currently working on  full-stack web projects (PHP, python, spring, Java, Vue.js, Django,Html,CSS,C,CPP..)
 - 🌱 I'm currently Learning java EE .
 - 👯 I'm looking to collaborate on web development and software engineering projects.
 - 💬 Ask me about Java, PHP/MySQL, Vue.js, Django REST, or Linux shell..
