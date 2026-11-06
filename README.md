@@ -5,5 +5,5 @@ Second-year Software Engineering student at ENSA Khouribga
 - 🔭 I'm currently working on  full-stack web projects (PHP, python, spring, Java, Vue.js, Django,Html,CSS,C,CPP..)
 - 🌱 I'm currently Learning jakarta EE  and cybersecurity.
 - 👯 I'm looking to collaborate on web development and software engineering projects.
-- 💬 Ask me about Java, PHP/MySQL, Vue.js, Django REST, or Linux shell..
+- 💬 Ask me about Java, PHP/MySQL, Vue.js, Django REST, or Linux shell..anything
 - 📫 How to reach me: [[My email](mariambouthaich@gmail.com) or[My LinkedIn is here](https://www.linkedin.com/in/mariam-bouthaich-75905029b/)]
