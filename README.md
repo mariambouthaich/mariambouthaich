@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **Java, PHP/MySQL, Vue.js, Django REST, or Linux shell..anything**
 
-- 📫 How to reach me **mariambouthaich@gmail.com**
+- 📫 How to reach me this is my email **mariambouthaich@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
