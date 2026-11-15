@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **full-stack web projects (PHP, python, spring, Java, Vue.js, Django,Html,CSS,C,CPP..)**
 
-- 🌱 I’m currently learning **jakarta EE , Spring boot and cybersecurity.**
+- 🌱 I’m currently learning **jakarta EE , Spring boot and cybersecurity, programming**
 
 - 👯 I’m looking to collaborate on **web development and software engineering projects.**
 
