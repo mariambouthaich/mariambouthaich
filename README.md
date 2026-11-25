@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **full-stack web projects (PHP, python, spring, Java, Vue.js, Django,Html,CSS,C,CPP..)**
 
-- 🌱 I’m currently learning **jakarta EE , Spring boot and cybersecurity, could computing, programming in such languages like c and python jave and jakarta**
+- 🌱 I’m currently learning **jakarta EE , Spring boot and cybersecurity, could computing, programming in such languages like c and python **
 
 - 👯 I’m looking to collaborate on **web development and software engineering projects and also working on SentinelLite in the moment .**
 
