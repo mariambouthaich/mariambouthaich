@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on **web development and software engineering projects and also working on SentinelLite in the moment .**
 
-- 💬 Ask me about **Java, PHP/MySQL, Vue.js, Django REST, or Linux shell..anything**
+- 💬 Ask me about **Java, PHP/MySQL, Vue.js, Django REST, or Linux shell.**
 
 - 📫 How to reach me this is my email **mariambouthaich@gmail.com**
 
